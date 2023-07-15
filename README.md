@@ -1,6 +1,6 @@
 <h1>Striver's SDE Worksheet solution</h1>
 
-<p>This repository contains my solutions to the Striver's SDE Sheet, which is a curated list of coding interview questions designed to help developers prepare for software engineering interviews. The sheet covers a wide range of topics and problem-solving techniques commonly asked in top tech company interviews.</p>
+<p>This repository contains my solutions to the Striver's SDE Sheet, which is a curated list of coding interview questions designed to help developers prepare for software engineering interviews. The sheet covers a wide range of topics and problem-solving techniques commonly asked in top tech company interviews. https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/</p>
 
 <h2>About this repository</h2>
 
