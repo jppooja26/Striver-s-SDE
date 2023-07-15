@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class matzero {
-    public static int[][] zeromatrix(int[][] mat,int r,int c) {
-        boolean[] row = new boolean[r];
-        boolean[] col = new boolean[c];
+    public static int[][] zeromatrix(int[][] mat,int r,int c) { //Time complexity - O(r*c)
+        boolean[] row = new boolean[r]; 
+        boolean[] col = new boolean[c]; //Space complexity - O(r+c)
         for(int i=0;i<r;i++) {
             for(int j=0;j<c;j++) {
                 if(mat[i][j] == 0) {
