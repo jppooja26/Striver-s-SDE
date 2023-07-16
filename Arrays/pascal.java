@@ -1,6 +1,8 @@
+//Time complexity - O(n*n)
+//Space complexity - O(n*n)
 import java.util.Scanner;
 public class pascal {
-    public static int[][] traingle(int[][] tri,int n) {
+    public static int[][] traingle(int[][] tri,int n) { 
         for(int i=0;i<n;i++) {
             tri[i] = new int[i+1];
             tri[i][0] = 1;
