@@ -40,5 +40,6 @@ public class matzero {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
