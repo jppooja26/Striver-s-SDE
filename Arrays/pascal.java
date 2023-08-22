@@ -1,5 +1,6 @@
 //Time complexity - O(n*n)
 //Space complexity - O(n*n)
+package Arrays;
 import java.util.Scanner;
 public class pascal {
     public static int[][] traingle(int[][] tri,int n) { 

@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Scanner;
 public class matzero {
     public static int[][] zeromatrix(int[][] mat,int r,int c) { //Time complexity - O(r*c)
