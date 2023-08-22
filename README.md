@@ -11,6 +11,7 @@ I. Arrays
     1. Set Matrix Zeros
     2. Pascal's Triangle
     3. Next Permutation
+    4. Kadane's Algorithm
 </pre>
 
 <p>The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the Striver's SDE worksheet.</p>
