@@ -14,6 +14,8 @@ I. Arrays
     4. Kadane's Algorithm
     5. Sort an array of 0's, 1's and 2's
     6. Stock buy and sell
+II.Arrays Part - 2
+    1. Rotate Matrix
 </pre>
 
 <p>The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the Striver's SDE worksheet.</p>
