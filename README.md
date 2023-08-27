@@ -16,6 +16,8 @@ I. Arrays
     6. Stock buy and sell
 II.Arrays Part - 2
     1. Rotate Matrix
+III. Dynamic Programming
+    1. Maximum Product Subarray
 </pre>
 
 <p>The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the Striver's SDE worksheet.</p>
