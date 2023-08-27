@@ -19,6 +19,7 @@ II.Arrays Part - 2
 III. Dynamic Programming
     1. Maximum Product Subarray
     2. Longest increasing subsequence
+    3. Longest common subsequence
 </pre>
 
 <p>The solutions provided in this repository aim to demonstrate effective and efficient approaches to solving the problems from the Striver's SDE worksheet.</p>
