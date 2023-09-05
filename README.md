@@ -16,6 +16,11 @@ I. Arrays
     6. Stock buy and sell
 II.Arrays Part - 2
     1. Rotate Matrix
+    2. Merge Overlapping subintervals 
+    3. Merge two sorted arrays without extra space
+    4. Find duplicates in an array of n+1 integers
+    5. Repeat and missing number
+    6. Inversion of array (Pre-req: Merge sort) 
 III. Dynamic Programming
     1. Maximum Product Subarray
     2. Longest increasing subsequence
